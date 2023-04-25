@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niduka Ranmin</h1>
+<h1 align="center">Hi 👋, I'm Niduka Ranmina</h1>
 
 <h3 align="center">A student and learning coding</h3>
 
